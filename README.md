@@ -4,6 +4,8 @@
 
 抹機 - 抹茶機器人  
 
+使用Python、透過Heroku平台架設的LineBot雛型機器人。  
+
 `LineID:` @940ljlpi  
 
 ![](https://i.imgur.com/Yum3i2J.png)
@@ -16,5 +18,7 @@
 ---
 
 ## 為什麼要叫 **Wiper？**  
+
+我想不到抹機的英文名字。  
 
 ![](https://i.imgur.com/KC6ilUC.png)  
